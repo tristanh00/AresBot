@@ -1,6 +1,5 @@
 import discord
 import asyncio
-import arrow
 import collections
 
 from modules.quote import Quote
@@ -51,7 +50,6 @@ async def on_message(message):
     if message.content.startswith('<@{}>'.format(client.user.id)):
         await client.send_message(message.channel, '{} Wsh?'.format(message.author.mention))
 
-
     if message.content.startswith(prefix + 'help'):
         await help.help(message, prefix)
 
@@ -82,9 +80,7 @@ async def on_message(message):
     if message.content.startswith(prefix + 'fake') or message.content.startswith(prefix + 'fq'):
         await fq.quote(message)
 
-
     if message.content.startswith(prefix + 'userinfo') or message.content.startswith(prefix + 'ui'):
         await user.info(message)
-
 
 client.run('')
