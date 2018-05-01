@@ -1,0 +1,26 @@
+:white_square_button: :white_square_button: :white_square_button: :white_square_button:
+:white_square_button:                      :white_square_button:
+:white_square_button:                      :white_square_button:
+:white_square_button:                      :white_square_button:
+:white_square_button:                      :white_square_button:
+:white_square_button:                      :white_square_button:
+:white_square_button: :white_square_button: :white_square_button: :white_square_button:
+
+
+:white_circle:
+
+:white_square_button:
+:white_square_button:
+:white_square_button:
+:white_square_button:
+:white_square_button:
+:white_square_button:
+
+
+:white_square_button: :white_square_button: :white_square_button: :white_square_button:
+:white_square_button:
+:white_square_button:
+:white_square_button: :white_square_button: :white_square_button: :white_square_button:
+:white_square_button:
+:white_square_button:
+:white_square_button: :white_square_button: :white_square_button: :white_square_button:
